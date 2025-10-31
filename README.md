@@ -26,8 +26,6 @@
 
 ### 📊 GitHub Stats
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-Gawai&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Ritesh-Gawai)
-![Followers](https://img.shields.io/github/followers/Ritesh-Gawai?logo=github&style=social)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-Gawai&layout=compact&theme=radical)
 
 
