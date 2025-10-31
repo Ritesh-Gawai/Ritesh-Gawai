@@ -25,9 +25,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshgawai&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgawai&layout=compact&theme=tokyonight)
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh-Gawai&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh-Gawai&theme=radical&hide_border=false)
 
 ---
 
