@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Spring Boot and Microservices**
 - 💻 I’m working on **Java Projects & APIs**
 - 🎯 Goal: Become a **Full Stack Java Developer**
-- 📫 Reach me at **riteshgawai@gmail.com**
+- 📫 Reach me at **riteshgawai469@gmail.com**
 
 ---
 
